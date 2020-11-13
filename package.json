@@ -1,0 +1,22 @@
+{
+  "name": "commitstandard",
+  "version": "1.0.0",
+  "description": "修改 README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huoyuanyuan/commitStandard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huoyuanyuan/commitStandard/issues"
+  },
+  "homepage": "https://github.com/huoyuanyuan/commitStandard#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.2"
+  }
+}
